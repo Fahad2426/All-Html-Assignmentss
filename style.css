@@ -1,0 +1,15 @@
+h1 {
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: 200%;
+}
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif; font-size: medium;
+    font-style: italic;
+    text-align: center;
+    background-color:lightseagreen;text-shadow: -1px -1px;
+}
+td {
+    box-shadow: gray 0px 8px 15px ;
+}
+a :hover{
+    color: lightseagreen;
+}
